@@ -1,3 +1,2 @@
 # Stitch
-The program is about image's sticthing
-Just start coding!
+The respository contains as much as possible image stitching code.
